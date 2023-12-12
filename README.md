@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+### Funkcionalitás Bővítése
+Adatok Lapozhatósága: Továbbfejleszthetjük a UserList komponenst úgy, hogy lapozhatóságot biztosítson, különösen, ha a felhasználók száma nő.
